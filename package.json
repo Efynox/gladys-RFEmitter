@@ -1,0 +1,26 @@
+{
+  "name": "gladys-rfemitter",
+  "version": "0.1.0",
+  "description": "RF Emitter for Gladys",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Efynox/gladys-RFEmitter.git"
+  },
+  "keywords": [
+    "gladys",
+    "radio"
+  ],
+  "author": "Efynox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Efynox/gladys-RFEmitter/issues"
+  },
+  "homepage": "https://github.com/Efynox/gladys-RFEmitter#readme"
+}
